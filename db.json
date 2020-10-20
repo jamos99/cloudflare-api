@@ -7,4 +7,15 @@
       "id": "9a7806061c88ada191ed06f989cc3dac"
     }
   }
+  "purge_files_error": {
+    "result": null,
+    "success": false,
+    "errors": [
+      {
+        "code": 1094,
+        "message": "Exceeded maximum amount of files that can be purged on a single request for your plan type."
+      }
+    ],
+    "messages": []
+  }
 }
